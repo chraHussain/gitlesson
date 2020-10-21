@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 deff my_square(y):
 	# takes a value and returns the square value.
 	#uses the ** operator
